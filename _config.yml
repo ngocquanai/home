@@ -20,20 +20,16 @@
 
 title: Pham Ngoc Quan
 name: Pham Ngoc Quan
-position: Research Scientist 
-email: dp9jalxhq@mozmail.com
+position: AI Research Resident 
+email: ngocquanofficial@gmail.com
 description: >-
-  Building [World Labs](https://www.worldlabs.ai/about), zero to one.
-
-  I am a researcher in 3D computer vision, generative models, and computer graphics. I was previously a research scientist at [Google](https://ai.google/research/).
-
-  I received my Ph.D from the [University of Washington](https://grail.cs.washington.edu/) in 2021 where I was advised by
-  [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
-  [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
+  I am a third-year student at [Hanoi University of Science and Technology](https://hust.edu.vn/en/), 
+  currently working as a research assistant at the BKAI Laboratory under the guidance of [Dr. Nguyen Thi Thu Trang](https://soict.hust.edu.vn/en/ph-d-nguyen-thi-thu-trang.html),
+   and as an AI Resident at [VinAI Research](https://www.vinai.io/), mentored by [Prof. Le Minh Trung](https://research.monash.edu/en/persons/trung-le). My primary research interests lie in Bayesian inference, the theoretical foundations of machine learning, and natural language processing for low-resource languages such as Vietnamese.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://keunhong.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KeunhongP
-github_username: keunhong
+url: "https://ngocquan.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ngocquanai
+github_username: ngocquanai
 # google_scholar: HVZb-5oAAAAJ
 # google_analytics: G-MFWSBLRKG0
 
