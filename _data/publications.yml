@@ -2,33 +2,29 @@
   title: "A Robust Pitch-Fusion Model for Speech Emotion Recognition in Tonal Languages"
   venue: ICASSP, 2024
   description: "This paper presents Pitch-fusion, a novel speech emotion recognition (SER) model optimized for tonal languages by incorporating pitch features to enhance performance."
-  project_page: https://ieeexplore.ieee.org/document/10448373
-  image: illuminerf_before.jpg
+  pdf: https://ieeexplore.ieee.org/document/10448373
+  github: thanhpv2102/ViSEC
+  image: visec.png
   authors:
     - vietthanh
     - thuhuyen
     - ngocquan
     - thutrang
 
-- id: reconfusion
-  title: "ReconFusion: 3D Reconstruction with Diffusion Priors"
-  venue: CVPR, 2024
-  description: "Using an multi-view image conditioned diffusion model to regularize a NeRF enabled few-view reconstruction."
-  project_page: https://reconfusion.github.io
-  arxiv: 2312.02981
-  image: reconfusion_before.png
-  image_mouseover: reconfusion_after.mp4
+- id: fhbi
+  title: "Improving Generalization With Flat Hilbert Bayesian Inference"
+  venue: arXiv, 2024
+  description: "This paper introduce Flat Hilbert Bayesian Inference (FHBI), an algorithm that enhances Bayesian inference generalization through an iterative two-step process involving adversarial functional perturbation and functional descent within reproducing kernel Hilbert spaces."
+  pdf: https://arxiv.org/pdf/2410.04196
+  arxiv: 2410.04196
+  github: ngocquanai/vmo
+  image: fhbi.png
   authors:
-    - rundiwu
-    - bmild
-    - phenzler
-    - keunhong
-    - ruiqigao
-    - danielwatson
-    - pratuls
-    - dorverbin
-    - barron
-    - pooleb
-    - holynski
+    - tuantruong
+    - quyentran
+    - ngocquan
+    - nhatho
+    - dinhphung
+    - trungle
 
     

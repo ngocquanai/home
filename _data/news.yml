@@ -1,14 +1,23 @@
-- date: May 2022
-  description: I have defended and have joined Google as a research scientist.
 
-- date: Oct 2021
+- date: Sep 2023
   description: >-
-    [_FiG-NeRF_](https://fig-nerf.github.io) has been accepted to 3DV 2021.
+    I was awarded Second Prize in the [SOICT Hackathon 2023](https://bkai.ai/soict-hackathon-2023/) (AI-Powered BFIS Track).
 
-- date: Sep 2021
+- date: May 2023
   description: >-
-    [_HyperNeRF_](https://hypernerf.github.io) has been accepted to SIGGRAPH Asia
-    2021. We have also released the [code](https://github.com/google/hypernerf).
+    I secured First Prize in the National Startup Contest for Students (SV.STARTUP 2023).
+
+- date: Jan 2021
+  description: >-
+    I achieved Third Prize in the Vietnam Mathematics Olympiad 2021.
+
+
+
+
+
+
+
+
 
 - date: Jul 2021
   description: >-
@@ -29,7 +38,3 @@
     We've released the
     [code](https://github.com/NVlabs/latentfusion) and
     [data](https://latentfusion.github.io) for [_LatentFusion_](https://latentfusion.github.io).
-- date: Feb 2020
-  description: >-
-    [_LatentFusion_](https://latentfusion.github.io), our paper on zero-shot pose estimation,
-    has been accepted to CVPR 2020.

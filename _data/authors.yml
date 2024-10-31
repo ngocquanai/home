@@ -6,17 +6,17 @@ ngocquan:
 
 tuantruong:
   first_name: Tuan
-  last_name: Truong Manh
+  last_name: Truong
   website: https://openreview.net/profile?id=~Tuan_Truong1
 
 quyentran:
   first_name: Quyen
-  last_name: Tran Thi
+  last_name: Tran 
   website: https://openreview.net/profile?id=~Quyen_Tran1
 
 trungle:
   first_name: Trung
-  last_name: Le Minh
+  last_name: Le 
   website: https://openreview.net/profile?id=~Trung_Le2
 
 
@@ -26,12 +26,12 @@ thutrang:
   last_name: Trang
   website: https://soict.hust.edu.vn/en/ph-d-nguyen-thi-thu-trang.html
 vietthanh:
-  first_name: Viet Thanh
-  last_name: Pham 
+  first_name: Pham
+  last_name: Viet Thanh
   website: 
 thuhuyen:
-  first_name: Huyen
-  last_name: Ngo Thi Thu
+  first_name: Ngo Thi Thu
+  last_name: Huyen
   website: 
 
 
