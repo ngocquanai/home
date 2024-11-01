@@ -1,13 +1,17 @@
-- id: illuminerf
-  title: "IllumiNeRF 3D Relighting without Inverse Rendering"
-  description: "3D relighting by distilling samples from a 2D image relighting diffusion model into a latent-variable NeRF."
-  image: illuminerf_before.jpg
-  image_mouseover: illuminerf_after.mp4
-  authors:
-    - xiaomingzhao
-    - pratuls
-    - dorverbin
-    - keunhong
-    - rmbrualla
-    - phenzler
- 
+# - id: fhbi_blog
+#   title: "Improving Generalization With Flat Hilbert Bayesian Inference"
+#   venue: arXiv, 2024
+#   description: "This paper introduce Flat Hilbert Bayesian Inference (FHBI), an algorithm that enhances Bayesian inference generalization through an iterative two-step process involving adversarial functional perturbation and functional descent within reproducing kernel Hilbert spaces."
+#   pdf: https://arxiv.org/pdf/2410.04196
+#   arxiv: 2410.04196
+#   github: ngocquanai/vmo
+#   image: fhbi.png
+#   authors:
+#     - tuantruong
+#     - quyentran
+#     - ngocquan
+#     - nhatho
+#     - dinhphung
+#     - trungle
+
+    

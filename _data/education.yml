@@ -1,11 +1,14 @@
-- name: HUST
-  description: >-
-    Ph. D in Computer Science, advised by <a href="https://smseitz.com">Steven M. Seitz</a> and
-    <a href="https://homes.cs.washington.edu/~ali/">Ali Farhadi</a>.<br />
-    Supported by Samsung Scholarship 2015-2020 ($50,000/year for 5 years)
-  dates: Fall 2015 - Spring 2022
 
-- name: VinAI
+- name: "Hanoi University of Science and Technology"
   description: >-
-    B.S. in Computer Science, advised by <a href="https://dhoiem.cs.illinois.edu/">Derek Hoiem</a>.
-  dates: Fall 2009 - Spring 2013
+    B.S. in <b>Data Science</b>  <br />
+    GPA: 3.46/4.0  <br />
+    Relevant courses: Data Structures & Algorithms, Data Science, Natural Language Processing, and Computer Vision.
+  dates: Sep 2021 - Present
+
+- name: "Thai Binh Gifted High School"
+  description: >-
+    Major: Mathematics. <br/>
+    Achievement: Third Prize in Vietnam Mathematics Olympiad 2021 (VMO 2021).
+  dates: Sep 2018 - Sep 2021
+
