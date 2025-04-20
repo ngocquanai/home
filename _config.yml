@@ -23,14 +23,20 @@ name: Pham Ngoc Quan
 position: AI Research Resident 
 email: ngocquanofficial@gmail.com
 description: >-
-  I am a third-year student at [Hanoi University of Science and Technology](https://hust.edu.vn/en/), 
-  currently working as a research assistant at the BKAI Laboratory under the guidance of [Dr. Nguyen Thi Thu Trang](https://soict.hust.edu.vn/en/ph-d-nguyen-thi-thu-trang.html),
-   and as an AI Resident at [VinAI Research](https://www.vinai.io/), mentored by [Prof. Le Minh Trung](https://research.monash.edu/en/persons/trung-le). My primary research interests lie in Bayesian inference, the theoretical foundations of machine learning, and natural language processing for low-resource languages such as Vietnamese.
+  I am a final-year student at [Hanoi University of Science and Technology](https://hust.edu.vn/en/). I have gained valuable experience 
+  working as a Research Assistant at the BKAI Laboratory and as an AI Resident at [VinAI Research](https://www.vinai.io/) (mentored by [Prof. Trung Le](https://research.monash.edu/en/persons/trung-le)), 
+  where I focused on topics including Bayesian Inference and Machine Learning Theory. Currently, 
+  I am an AI Research Resident at [**Qualcomm AI Research**](https://www.qualcomm.com/), my research will focus on **model fine-tuning** 
+  and **test-time scaling** techniques for image generation.
+
+
+  You can connect with me on **LinkedIn** [**linkedin.com/in/ngocquanai**](https://www.linkedin.com/in/ngocquanai/) or **Facebook** [**fb.com/ngocquanofficial**](https://www.facebook.com/ngocquanofficial), and feel free to visit [**my blog**](https://travel.ngocquan.com/) to explore more images about me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ngocquan.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ngocquanai
+# twitter_username: ngocquanai
 github_username: ngocquanai
-# google_scholar: HVZb-5oAAAAJ
+google_scholar: GWE5NmkAAAAJ
+facebook_username: ngocquanai
 # google_analytics: G-MFWSBLRKG0
 
 # Build settings
