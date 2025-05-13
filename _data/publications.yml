@@ -1,5 +1,5 @@
 - id: fhbi
-  title: "Improving Generalization With Flat Hilbert Bayesian Inference"
+  title: "ImprovingGeneralization With Flat Hilbert Bayesian Inference "
   venue: ICML, 2025
   description: "This paper introduce Flat Hilbert Bayesian Inference (FHBI), an algorithm that enhances Bayesian inference generalization through an iterative two-step process involving adversarial functional perturbation and functional descent within reproducing kernel Hilbert spaces."
   pdf: https://arxiv.org/pdf/2410.04196
