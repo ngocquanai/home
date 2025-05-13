@@ -1,3 +1,20 @@
+- id: fhbi
+  title: "Improving Generalization With Flat Hilbert Bayesian Inference"
+  venue: ICML, 2025
+  description: "This paper introduce Flat Hilbert Bayesian Inference (FHBI), an algorithm that enhances Bayesian inference generalization through an iterative two-step process involving adversarial functional perturbation and functional descent within reproducing kernel Hilbert spaces."
+  pdf: https://arxiv.org/pdf/2410.04196
+  arxiv: 2410.04196
+  github: ngocquanai/vmo
+  image: fhbi.png
+  authors:
+    - tuantruong
+    - quyentran
+    - ngocquan
+    - nhatho
+    - dinhphung
+    - trungle
+
+
 - id: visec
   title: "A Robust Pitch-Fusion Model for Speech Emotion Recognition in Tonal Languages"
   venue: ICASSP, 2024
@@ -11,20 +28,5 @@
     - ngocquan
     - thutrang
 
-- id: fhbi
-  title: "Improving Generalization With Flat Hilbert Bayesian Inference"
-  venue: arXiv, 2024
-  description: "This paper introduce Flat Hilbert Bayesian Inference (FHBI), an algorithm that enhances Bayesian inference generalization through an iterative two-step process involving adversarial functional perturbation and functional descent within reproducing kernel Hilbert spaces."
-  pdf: https://arxiv.org/pdf/2410.04196
-  arxiv: 2410.04196
-  github: ngocquanai/vmo
-  image: fhbi.png
-  authors:
-    - tuantruong
-    - quyentran
-    - ngocquan
-    - nhatho
-    - dinhphung
-    - trungle
 
     
